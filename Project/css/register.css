@@ -1,0 +1,64 @@
+@charset "utf-8";
+html,body,ul,li,ol,dl,dd,dt,p,h1,h2,h3,h4,h5,h6,form,fieldset,legend,img,span{ margin:0; padding:0; }
+button,img,a,input,textarea,th,td,table,lable{margin:0;padding:0;}
+body,html{height:100%}
+ul,ol,li{list-style:none;}
+a,u{text-decoration:none;}
+img{border:0;display:block;}
+h1,h2,h3,h4,h5,h6,a,p{font-size:12px;font-weight:100;font-family:"微软雅黑" ;}
+em,i{font-style:normal;}
+b,strong{font-weight:100;}
+.clearfix:after{content:".";clear:both;display:block;height:0;overflow:hidden;visibility:hidden;}
+.main{width:80%;margin:0 auto;}
+/*top*/
+#top{height:82px;border-bottom:#a6a498 solid 7px;border-top:#a6a498 solid 1px;overflow:hidden;}
+.head{height:82px;}
+.head .head-left{height:52px;width:248px;float:left;margin-top:24px;}
+.head .head-left a{float:left;height:52px;width:257px;background:url(../img/tu.png) no-repeat 0 -60px;}
+.head .head-right{height:82px;width:40%;float:right;}
+.head .head-right ul{height:16px;width:400px;float:left;margin-top:44px;}
+.head .head-right ul li{height:16px;font:12px "微软雅黑";color:#a6a498;float:left;line-height:16px;margin-left:8px;background:url(../img/tu1.gif) no-repeat;}
+.head .head-right ul .zpcl{padding-left:18px;background-position: -990px -60px;}
+.head .head-right ul .sdfh{padding-left:22px;background-position: -990px -102px;}
+.head .head-right ul .wlyth{padding-left:26px;background-position: -986px -148px;}
+.head .head-right ul .qtcj{padding-left:20px;background-position: -990px -192px;}
+/*register中心*/
+#registerlogin{height:470px;}
+.register-con{height:470px;}
+.register-con .signinCentPic{height:60px;font:900 24px "微软雅黑";color:#d6000f;float:left;margin-top:30px;width:100%;}
+.register-con .registerL{width:750px;height:380px;float:left;}
+.register-con .registerL ul{height:300px;width:717px;float:left;margin-left:33px;}
+.register-con .registerL ul li{height:35px;width:717px;float:left;margin-top:17px;font:12px "微软雅黑";color:#535353;}
+.register-con .registerL ul li span{height:35px;font:12px "微软雅黑";color:#535353;width:70px;text-align:right;line-height:35px;float:left;}
+.register-con .registerL ul li input{height:35px;width:235px;float:left;margin-left:8px;border:0;border:1px solid #ABA99E;}
+.register-con .registerL ul li .yanZ{width:130px;}
+.register-con .registerL ul li .comment{height:35px;font:12px "微软雅黑";color:#a6a498;float:left;margin-left:15px;line-height:35px;}
+.register-con .registerL ul li .comment .code1{float:left;width:100px;height:35px;border:1px solid #ABA99E;font:900 24px "微软雅黑";color:#999;text-align:center;}
+.register-con .registerL ul li .comment em{height:12px;float:left;width:96px;color:#5c5a4e;font:normal 12px SimSun;margin:8px 0 0 6px;text-align:center;}
+.register-con .registerL ul li .pass{height:12px;width:12px;border-radius:1px;margin-left:78px;float:left;}
+.register-con .registerL .btn{height:46px;width:450px;float:left;margin-left:120px;}
+.register-con .registerL .btn span{height:46px;width:134px;float:left;background:#f36705;font:22px "微软雅黑";line-height:46px;text-align:center;color:#fff;}
+.register-con .registerL .btn p{height:12px;line-height:46px;margin-left:14px;float:left;color:#535353;}
+.register-con .registerR{height:353px;width:25%;float:right;border-left:#cccccc 1px dashed;}
+.register-con .registerR .registerRt{height:45px;width:200px;float:left;margin:26px 0 0 10%;font:12px "微软雅黑";color:#535353;line-height:22px;}
+.register-con .registerR .dengL{height:45px;width:200px;float:left;margin:16px 0 0 10%;}
+.register-con .registerR .dengL .RegistraUser{height:45px;width:134px;float:left;border:0;
+			background:#53aceb;font:22px "微软雅黑";color:#fff;}
+.register-con .registerR .dengLb{height:121px;width:200px;float:left;margin:100px 0 0 10%;font:12px "微软雅黑";color:#a6a498;}
+.register-con .registerR .dengLb .aboutIco{height:33px;width:160px;background:url(../img/tu2.jpg) no-repeat -1px -120px;}
+/*bottom*/
+#bottom{height:122px;border-top:1px solid #a6a498;}
+.footer{height:122px;}
+.footer p{height:48px;width:1007px;text-align:center;color:#5c5a4e;line-height:24px;margin:20px;float:left;}
+.footer p a{float:left;outline:none;padding:0;margin:0;}
+.footer p strong{font:900 12px "微软雅黑";color:#5c5a4e;}
+.footer ul{height:40px;width:400px;float:left;margin-left:30%;}
+.footer ul li{float:left;margin-left:6px;height:40px;width:93px;background:url(../img/login.jpg) no-repeat;}
+.footer ul .txw{background-position:0 0;}
+.footer ul .wqw{background-position:-99px 0;}
+.footer ul .bzzx{background-position:-198px 0;}
+.footer ul .zgjzw{background-position:-297px 0;}
+.footer ul li a{float:left;outline:none;height:40px;visibility:hidden;}
+
+
+

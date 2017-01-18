@@ -1,0 +1,14 @@
+.register-con .loginL{width:750px;height:380px;float:left;}
+.register-con .loginL .log{min-height:144px;_height:190px;width:717px;float:left;margin:80px 0 0 33px;}
+.register-con .loginL .log li{height:35px;width:717px;float:left;margin-top:17px;font:12px "微软雅黑";color:#535353;}
+.register-con .loginL .log li span{height:35px;font:12px "微软雅黑";color:#535353;width:70px;text-align:right;line-height:35px;float:left;}
+.register-con .loginL .log li input{height:35px;width:235px;float:left;margin-left:8px;}
+.register-con .loginL .log .YZM{display:none;}
+.register-con .loginL .log li .yanZ{width:130px;}
+.register-con .loginL .log li .comment{height:35px;font:12px "微软雅黑";color:#a6a498;float:left;margin-left:15px;line-height:35px;}
+.register-con .loginL .log li .comment img{float:left;width:100px;height:35px;}
+.register-con .loginL .log li .comment a{height:12px;float:left;width:96px;color:#5c5a4e;font:normal 12px SimSun;margin:8px 0 0 6px;text-align:center;}
+.register-con .loginL .log li .pass{height:12px;width:12px;border-radius:1px;margin-left:78px;float:left;}
+.register-con .loginL .btn{height:46px;width:717px;float:left;margin-left:110px;}
+.register-con .loginL .btn span{height:46px;width:134px;float:left;background:#f36705;font:22px "微软雅黑";line-height:46px;text-align:center;color:#fff;margin:0 12px;}
+.register-con .loginL .btn .btnL{margin-left:0;background:#d3000f;}
